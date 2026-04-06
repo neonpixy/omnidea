@@ -1,0 +1,15 @@
+[submodule "Omninet"]
+	path = Omninet
+	url = ../Omninet.git
+[submodule "Library"]
+	path = Library
+	url = ../Library.git
+[submodule "Omny"]
+	path = Omny
+	url = ../Omny.git
+[submodule "Covenant"]
+	path = Covenant
+	url = ../Covenant.git
+[submodule "Apps"]
+	path = Apps
+	url = ../Apps.git
